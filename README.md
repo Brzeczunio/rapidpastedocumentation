@@ -1,9 +1,9 @@
 # Rapid Paste - dokumentacja
-Aplikacja Rapid Paste służy do szybkiego wklejania predefiniowanych danych. Posiada cztery konfigurowalne przyciski oraz drzewka z predefiniowanymi nazwami. Dodatkowo tak samo posiada generatory: męskie imie, żeńskie, nazwisko, miasto, kod pocztowy oraz adres.
+Aplikacja Rapid Paste służy do szybkiego wklejania predefiniowanych danych. Posiada cztery konfigurowalne przyciski oraz drzewko z predefiniowanymi nazwami. Po dwukliku na predefiniowanej nazwie zostaje ona skopiowana do schowka. Dodatkowo tak samo posiada generatory: męskie imie, żeńskie, nazwisko, miasto, kod pocztowy oraz adres. Po wybraniu generatora wartość zostaje skopiowana do schowka
 
 ![MainWindow](MainWindow.jpg)
 
-Aplikacja działa w trayu po uruchomieniu. Aktywacja odbywa się za pomocą skrótu: ctrl+windows. 
+Po uruchomieniu aplikacja działa w trayu. Aktywacja odbywa się za pomocą skrótu: ctrl+windows. 
 Generatory mają przypisane swoje skróty klawiszowe takie jak: ctrl+1 lub alt+1
 
 Aby wejść do ustawień trzeba nacisnąć prawym przyciskiem na ikonie w trayu i wybrać opcję: "Options..."
