@@ -1,4 +1,4 @@
-# Rapid Paste - documentation
+# Rapid Paste - dokumentacja
 Aplikacja Rapid Paste służy do szybkiego wklejania predefiniowanych danych. Posiada cztery konfigurowalne przyciski oraz drzewka z predefiniowanymi nazwami. Dodatkowo tak samo posiada generatory: męskie imie, żeńskie, nazwisko, miasto, kod pocztowy oraz adres.
 
 ![MainWindow](MainWindow.jpg)
