@@ -4,7 +4,9 @@ Aplikacja Rapid Paste służy do szybkiego wklejania predefiniowanych danych. Po
 Aplikacja działa w trayu po uruchomieniu. Aktywacja odbywa się za pomocą skrótu: ctrl+windows. 
 Generatory mają przypisane swoje skróty klawiszowe takie jak: ctrl+1 lub alt+1
 
+![MainWindow](https://github.com/Brzeczunio/rapidpastedocumentation/edit/master/MainWindow.png)
 
+![Options](https://github.com/Brzeczunio/rapidpastedocumentation/edit/master/Options.png)
 
 # Wymagania
 Aplikacja powinna działać dla każdego systemu z rodziny Windows.
